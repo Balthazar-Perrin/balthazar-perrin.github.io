@@ -1,3 +1,3 @@
 # balthazar-perrin.github.io
 
-This is my Portofolio
+This is my Portfolio.
