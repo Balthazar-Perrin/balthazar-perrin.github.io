@@ -33,6 +33,8 @@ body {
 	line-height: 1;
 }
 
+
+
 ol, ul {
 	list-style: none;
 }
@@ -4686,4 +4688,15 @@ input, select, textarea {
 			visibility: visible;
 		}
 
+	}
+
+
+	#language {
+		height: 100%;
+	}
+
+ 	#language img {
+		height: 50%;
+		margin-top: 45%;
+		margin-bottom: 15%;
 	}
