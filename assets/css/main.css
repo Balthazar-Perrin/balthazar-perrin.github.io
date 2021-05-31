@@ -33,7 +33,9 @@ body {
 	line-height: 1;
 }
 
-
+#CVs {
+	margin: 0
+}
 
 ol, ul {
 	list-style: none;
